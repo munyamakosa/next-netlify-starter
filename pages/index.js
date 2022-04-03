@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Kwingy" />
         <p className="description">
-          The way you Shop is About to Change <code>and we can't wait too.</code>
+          The way you Shop is About to Change
         </p>
       </main>
 
