@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Kwingy Living in Abundance</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       <main>
